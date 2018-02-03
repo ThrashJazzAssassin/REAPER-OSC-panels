@@ -4,5 +4,5 @@ REAPER OpenStageControl 0.1.json is for Open Stage Control http://osc.ammd.net/,
 ![REAPER OSC](https://github.com/ThrashJazzAssassin/REAPER-OSC-panels/blob/master/REAPER%20OpenStageControl%200.1.png)
 
 
-ReaFingers for TouchOSC. ReaFingers.ReaperOSC Included
+ReaFingers for TouchOSC. Forum thread: https://forum.cockos.com/showthread.php?t=175636
 ![REAPER OSC](http://forum.cockos.com/attachment.php?attachmentid=27861&stc=1&d=1460729145)
