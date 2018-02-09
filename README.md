@@ -1,6 +1,9 @@
 # REAPER-OSC-panels
 
 REAPER OpenStageControl*.json is for Open Stage Control http://osc.ammd.net/, a multi-touch OSC app for Windows, Mac and Linux. Works with Default.ReaperOSC
+
+Forum thread https://forum.cockos.com/showthread.php?t=202912
+
 ![REAPER OSC](https://github.com/ThrashJazzAssassin/REAPER-OSC-panels/blob/master/ReaperOSCtja0.1.7-1.PNG)
 ![REAPER OSC](https://github.com/ThrashJazzAssassin/REAPER-OSC-panels/blob/master/ReaperOSCtja0.1.7-2.PNG)
 ![REAPER OSC](https://github.com/ThrashJazzAssassin/REAPER-OSC-panels/blob/master/ReaperOSCtja0.1.7-3.PNG)
